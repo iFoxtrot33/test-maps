@@ -1,5 +1,10 @@
 # test-maps
 
+## About
+Here are two examples of using Yandex maps 
+- With the library react-yanex-maps
+- Without library 
+
 ## To receive API 
 https://yandex.ru/dev/maps/jsapi/doc/2.1/quick-start/index.html#get-api-key
 

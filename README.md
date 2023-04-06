@@ -28,5 +28,5 @@ npm run dev
 ```
 
 ## Documentation
-https://yandex.ru/dev/maps/jsapi/doc/3.0/quick-start/index.html
-https://yandex.ru/dev/maps/jsapi/doc/3.0/examples/index.html
+- https://yandex.ru/dev/maps/jsapi/doc/3.0/quick-start/index.html
+- https://yandex.ru/dev/maps/jsapi/doc/3.0/examples/index.html

@@ -15,7 +15,7 @@ JS API 3.0 работает только с ключами, у которых з
 ## To deploy locally 
 
 ```
-git clone 
+git clone https://github.com/iFoxtrot33/test-maps.git
 cd test-maps
 npm install
 
@@ -26,3 +26,7 @@ npm install
 
 npm run dev
 ```
+
+## Documentation
+https://yandex.ru/dev/maps/jsapi/doc/3.0/quick-start/index.html
+https://yandex.ru/dev/maps/jsapi/doc/3.0/examples/index.html
